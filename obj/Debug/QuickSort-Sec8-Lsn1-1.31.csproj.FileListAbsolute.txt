@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\bin\Debug\QuickSort-Sec8-Lsn1-1.31.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\bin\Debug\QuickSort-Sec8-Lsn1-1.31.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\bin\Debug\QuickSort-Sec8-Lsn1-1.31.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\obj\Debug\QuickSort-Sec8-Lsn1-1.31.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\obj\Debug\QuickSort-Sec8-Lsn1-1.31.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\obj\Debug\QuickSort-Sec8-Lsn1-1.31.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\obj\Debug\QuickSort-Sec8-Lsn1-1.31.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\QuickSort-Sec8-Lsn1-1.31\QuickSort-Sec8-Lsn1-1.31\obj\Debug\QuickSort-Sec8-Lsn1-1.31.pdb
